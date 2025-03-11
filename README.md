@@ -1,7 +1,8 @@
 # Hi there, I'm Jin 👋
-
+<!---
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet) 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) 
+-->
 
 **I'm a passionate Software Engineer and Creator.** I love exploring the intersection of technology and creativity, whether it's through coding, writing, or tinkering with fun projects.
 
