@@ -12,13 +12,14 @@
 
 
 ## 🌱 Current Focus
-- **Seeking a Software Engineering role**: I'm currently looking for opportunities to apply my skills in a dynamic team environment. Part-time roles are welcome!
+- **Full-Time Job**: I got a job! So I am working hard on that
 - **Projects to improve my skills**: I'm working on things that can assist my skills such as certificates, portfolio page, and applications.
 - **Coding for fun**: I'm working on a game that I wanted to make for the longest time
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 - Finish my portfolio
 - Make this page look prettier :3
+- Make some games
 
 ## 🚀 Featured Projects
 Work in Progress
