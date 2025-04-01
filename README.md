@@ -20,7 +20,7 @@
 ## 🎯 Goals for 2025
 - Finish my portfolio
 - Make this page look prettier :3
-- Make some games
+- Make some games/Other cool Projects!
 
 ## 🚀 Featured Projects
 Work in Progress
